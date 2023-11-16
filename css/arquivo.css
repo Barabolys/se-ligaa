@@ -1,0 +1,19 @@
+html {
+    background-color: #13d3b9;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color:  #0b2f50;
+    text-shadow: 3px 3px 1px rgb(45, 204, 204);
+  }
+  h2 {
+    margin: 0;
+    padding: 20px 0;
+    color: #0b2f50;
+    text-shadow: 2px 2px 1px rgb(45, 204, 204);
+  }
+  footer {
+    border: #0b2f50;
+    border-radius: 2px 2px 1px;
+  }
